@@ -20,3 +20,7 @@ vox.com
 washingtonpost.com
 ycombinator.com
 zerohedge.com
+facebook.com
+cbsnews.com
+nbcnews.com
+abcnews.com
